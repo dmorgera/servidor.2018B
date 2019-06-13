@@ -1,3 +1,3 @@
 # servidor.2018B
 
-Práctica filtrar de la asignatura Sistemas Operativos de la Universidad Politécnica de Madrid.
+Práctica servidor de la asignatura Sistemas Operativos de la Universidad Politécnica de Madrid.
