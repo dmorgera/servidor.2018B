@@ -2,7 +2,7 @@ OS=$(shell uname -s)
 
 PRAC=servidor
 CURSO=2018b
-PLAZO=
+PLAZO=Jul
 
 EXE=servidor
 DYNLIB=
